@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/scripts/mapCode.js"
+      }
+    },
+    "condition": {
+      "urlFilter": "||logic-arrows.io/bundle.js?v=1_2_1",
+      "resourceTypes": ["script"]
+    }
+  }
+]

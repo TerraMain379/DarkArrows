@@ -1,0 +1,25 @@
+{
+    "name": "Dark Arrows",
+    "description": "Dark theme from Logic-Arrows",
+    "version": "1.0",
+    "manifest_version": 3,
+    "icons": {
+        "256": "logo.png"
+    },
+    "content_scripts": [
+        {
+            "matches": ["*://logic-arrows.io/*"],
+            "js": ["scripts/injector.js"],
+            "run_at": "document_end"
+        }
+    ],
+    "permissions": [
+        "activeTab"
+    ],
+    "web_accessible_resources": [
+        {
+            "resources": [ "scripts/inject.js" ],
+            "matches": [ "<all_urls>" ]
+        }
+    ]
+}
