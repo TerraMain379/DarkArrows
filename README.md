@@ -12,10 +12,10 @@
 
 [_источник_](https://lifehacker.ru/kak-ustanovit-rasshireniya-v-google-chrome-iz-storonnego-istochnika/)
 ### Скриншоты
-![](\media\1.PNG)
-![](\media\2.PNG)
-![](\media\i1.PNG)
-![](\media\i2.PNG)
-![](\media\3.PNG)
-![](\media\4.PNG)
-![](\media\i3.PNG)
+![](/media/1.PNG)
+![](/media/2.PNG)
+![](/media/i1.PNG)
+![](/media/i2.PNG)
+![](/media/3.PNG)
+![](/media/4.PNG)
+![](/media/i3.PNG)
